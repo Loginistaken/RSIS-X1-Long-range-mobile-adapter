@@ -72,3 +72,6 @@ RSIS-X1 is a novel concept as it integrates a pocket-sized smartphone companion 
 * Mass Production: 1,000 units, $38–$52/unit.
 * Firmware ready to flash; PCB fabrication and assembly available from JLCPCB, PCBWay, Seeed Studio.
 * Novelty: Combines privacy, edge intelligence, and real-time mesh networking in a consumer-ready adapter.
+
+
+Invented and conceptually developed by Eric C. Lindau. Assisted through AI-aided co-engineering environments (ChatGPT 5), Grok and Github co=pilot collberation as well as bring special thanks and Grok chat for bring us the images. All combinatorial elements, structural mappings, material configurations, and thermoelectric AI feedback systems are attributed to the inventor and may be subject to protection under applicable copyright, intellectual property, and patent frameworks.
