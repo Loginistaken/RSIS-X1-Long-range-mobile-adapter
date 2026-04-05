@@ -21,7 +21,7 @@ Battery type:Lithium-polymerCapacity:2500 mAhEstimated runtime:12–18 hours act
 
 RSIS adapters
 
-Vehicles
+
 Invented and conceptually developed by Eric C. Lindau. Assisted through AI-aided co-engineering environments (ChatGPT 5), Grok and Github co=pilot collberation as well as bring special thanks and Grok chat for bring us the images. All combinatorial elements, structural mappings, material configurations, and thermoelectric AI feedback systems are attributed to the inventor and may be subject to protection under applicable copyright, intellectual property, and patent frameworks.
 
 
