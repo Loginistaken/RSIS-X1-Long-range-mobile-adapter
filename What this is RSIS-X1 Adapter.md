@@ -1,10 +1,11 @@
-## RSIS 6.1 Overview Canvas (GitHub-friendly Formatting)
+## RSIS 6.1 Overview Canvas 
 
 ### Page 1: Introduction to RSIS
 
 The Road Safety Intelligence System (RSIS) is a comprehensive safety platform designed to enhance situational awareness and prevent collisions for road users, including drivers, cyclists, and pedestrians. At its core, RSIS leverages real-time data processing, sensor fusion, and advanced networking to create a proactive safety ecosystem. The 6.1 version of RSIS represents a major milestone, integrating improvements in user experience, connectivity, and predictive analytics. RSIS 6.1 emphasizes modularity, allowing the system to scale across mobile devices and hardware adapters, providing both active and passive monitoring capabilities. This iteration has been designed with privacy and security as a priority, using ephemeral identifiers and role-specific communication to protect user identity while maintaining real-time situational awareness.
 
-RSIS 6.1 focuses on the integration of multiple layers of data sources, including GPS location, inertial measurements, and wireless communications. By synthesizing information from these channels, the system can model traffic patterns, anticipate potential hazards, and deliver timely alerts. The 6.1 architecture also introduces a refined user interface and backend logic, facilitating clearer visualization of risks and enhancing the decision-making capabilities of users. This system is built to support a wide variety of user roles, from vehicle operators to pedestrians, while ensuring interoperability between mobile applications and hardware adapters.
+RSIS 6.1 focuses on the integration of multiple layers of data sources, including GPS location, inertial measurements, and wireless communications. By synthesizing information from these channels, the system can model traffic patterns, anticipate potential hazards, and deliver timely alerts. The 6.1 architecture also introduces a refined user interface and backend logic, facilitating clearer visualization of risks and enhancing the decision-making capabilities of users. This system is built to support a wide variety of user roles, from vehicles passengers to cyclist and pedestrians, while ensuring interoperability between mobile applications and hardware adapters. RSIS-X1 Adapter bring blue tooth 5.2 giving longer distance blue user interaction for 
+more perscise safety interactionm. X1 also brings as a device on board GPS that can boost RSIS models in no wi-fi zone, just adding intelligence to the mobile app a wirless device that can be installed in vehicle or mounted on bike for instance. A wireless boost for GPS and bluetooth mobile app upgrade device.
 
 ### Page 2: RSIS-X1 Adapter Capabilities
 
