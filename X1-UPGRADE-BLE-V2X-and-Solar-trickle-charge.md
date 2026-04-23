@@ -42,3 +42,5 @@ perpetually powered in outdoor use while retaining full USB-C rechargeability. T
 continuously expands as more nodes are added, effectively transforming road environments into a cooperative, real-time awareness network 
 capable of reducing collision risk through predictive, multi-layer communication rather than reactive alerting.
 
+Invented and conceptually developed by Eric C. Lindau. Assisted through AI-aided co-engineering environments (ChatGPT 5), Grok and Github co=pilot collberation as well as bring special thanks and Grok chat for bring us the images. All combinatorial elements, structural mappings, material configurations, and thermoelectric AI feedback systems are attributed to the inventor and may be subject to protection under applicable copyright, intellectual property, and patent frameworks.
+
