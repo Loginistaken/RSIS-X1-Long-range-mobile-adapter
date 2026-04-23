@@ -1,5 +1,5 @@
 ## RSIS 6.1 Overview Canvas 
-
+(THIS MODEL HAS BEEN UPDATED WITH WIRELESS BLUETOOTH NODE ALERT AND SOLAR INTEGRATION HERE:X1-UPGRADE-BLE-V2X-and-Solar-trickle-charge.md)
 ### Page 1: Introduction to RSIS
 
 The Road Safety Intelligence System (RSIS) is a comprehensive safety platform designed to enhance situational awareness and prevent collisions for road users, including drivers, cyclists, and pedestrians. At its core, RSIS leverages real-time data processing, sensor fusion, and advanced networking to create a proactive safety ecosystem. The 6.1 version of RSIS represents a major milestone, integrating improvements in user experience, connectivity, and predictive analytics. RSIS 6.1 emphasizes modularity, allowing the system to scale across mobile devices and hardware adapters, providing both active and passive monitoring capabilities. This iteration has been designed with privacy and security as a priority, using ephemeral identifiers and role-specific communication to protect user identity while maintaining real-time situational awareness.
